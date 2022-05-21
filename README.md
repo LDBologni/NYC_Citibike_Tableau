@@ -6,15 +6,15 @@ The purpose of the project is provide help to Kate, she wants to start a bike-sh
 
 ## Results
 
-- Checkout Stats:
+- ****Checkout Stats:
 
 Checkout Stats gives us a view into the ride duration of each trip. The data depicts that the majority of all rides have a duration less than 20 mins. The duration also matches across genders. There is no difference who rides the bikes, or for what reason, trips are short.
 
-- Bike Movement:
+- ****Bike Movement:
 
 The data shows that peaople do not ride the bikes far from the starting location. The data also shows that there is not a migration problem where bikes travel from one side of the city and are left on the other side creating a bike location management problem. This could be due to the fact that people ride the bikes with the purpose to enjoy a ride and not to reach a certain popular location
 
-- Weekday Stats:
+- ****Weekday Stats:
 
 During the weekdays the data displays that the NYC Citibikes are used heavily during weekday during commuting hours. Conversely, on the weekends the bikes have low, yet consistent usage during the midday. Customers tend to be Subscribers over single use customers. Here is another view of Weekday Stats by Gender. The same frequency of riding occurs across genders. Weekdays see heavy usage for commuting hours and weekends have consistent usage during the day.
 
