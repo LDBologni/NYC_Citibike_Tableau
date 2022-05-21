@@ -22,4 +22,4 @@ During the weekdays the data displays that the NYC Citibikes are used heavily du
 The vacation in NYC was amazing and riding the network of Citibikes helped the experience. However, the prospects of starting a business in Des Moines, IA is still inconclusive. Much of the usage comes from subscribers and commuters and not casual tourists. There is a lot to see in Manhattan and without a commuting map or a landmark map to compliment Kate's idea, I don't think that investors would jump at the idea of Citibikes in Des Moines, IA.
 
 ### Link to Dashboard
-https://public.tableau.com/app/profile/leonardo.domenico.bologni/viz/TableauChallenge_16531683745200/NYCDataAnalysis?publish=yes
+[Dashboard Link] (https://public.tableau.com/app/profile/leonardo.domenico.bologni/viz/TableauChallenge_16531683745200/NYCDataAnalysis?publish=yes)
